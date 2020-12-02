@@ -3,8 +3,8 @@ This project involves creating a cheating detector for exams run on a Linux syst
 
 List of Functionalities implemented:
 #	Check unique IP addresses
-o	Detects if a student has multiple IPs open, and logs using date command in violations file
-o	Outputs to the terminal so professor can always see who is cheating 
+o	Detects if a student has multiple IPs open, and logs using date command in violations file\
+o	Outputs to the terminal so professor can always see who is cheating
 o	Continuously runs every 2 seconds so cheaters can easily be found
 #	Collect file versions
 o	Creates a directory studentfiles for copy storage
